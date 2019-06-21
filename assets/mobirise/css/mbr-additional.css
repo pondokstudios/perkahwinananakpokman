@@ -1410,20 +1410,14 @@ body {
   background: #ff3366 !important;
   box-shadow: none !important;
 }
-.cid-rtN1QMYyPk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/bg-banner-1905x555.jpg");
+.cid-rtZhY88gd7 {
+  background-image: url("../../../assets/images/wedding-bg-2-2000x1493.jpg");
 }
-.cid-rtN1QMYyPk .mbr-text,
-.cid-rtN1QMYyPk .mbr-section-btn {
-  text-align: center;
+.cid-rtZhY88gd7 .mbr-text,
+.cid-rtZhY88gd7 .mbr-section-btn {
+  color: #480114;
 }
-.cid-rtN1QMYyPk H1 {
-  text-align: center;
-  color: #4f4943;
-}
-.cid-rtN1QMYyPk H3 {
+.cid-rtZhY88gd7 H1 {
   color: #232323;
 }
 .cid-rtN28F93nE {
@@ -1480,7 +1474,7 @@ body {
   color: #ffffff;
 }
 .cid-rtN28F93nE .countdown-cont {
-  background: linear-gradient(45deg, #149dcc, #e4d295);
+  background: linear-gradient(45deg, #cc2952, #e4d295);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -1524,6 +1518,9 @@ body {
   }
 }
 .cid-rtN28F93nE H4 {
+  text-align: center;
+}
+.cid-rtN28F93nE H5 {
   text-align: center;
 }
 .cid-rtN4j3sZp2 .modal-body .close {
@@ -1772,42 +1769,24 @@ body {
   text-align: center;
   color: #4f4943;
 }
-.cid-rtNnEKCn2V {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #4f4943;
-}
-.cid-rtNnEKCn2V .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rtNnEKCn2V .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rtNnEKCn2V .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rtNnEKCn2V .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rtNnEKCn2V .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-rtNtLFOAzF {
+.cid-rtZpWqco87 {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-bottom: 45px;
+  background-color: #ffffff;
 }
-.cid-rtNtLFOAzF P {
+.cid-rtZpWqco87 P {
   color: #767676;
+}
+.cid-rtZlQGZWQr {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rtZlQGZWQr .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rtZldARjHX {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
 }
