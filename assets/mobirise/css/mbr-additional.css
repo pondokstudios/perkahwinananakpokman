@@ -1411,18 +1411,18 @@ body {
   box-shadow: none !important;
 }
 .cid-rtZhY88gd7 {
-  background-image: url("../../../assets/images/wedding-bg-2-2000x1493.jpg");
+  background-image: url("../../../assets/images/web-head-cover-3-2000x1305.jpg");
 }
 .cid-rtZhY88gd7 .mbr-text,
 .cid-rtZhY88gd7 .mbr-section-btn {
-  color: #480114;
+  color: #232323;
 }
 .cid-rtZhY88gd7 H1 {
   color: #232323;
 }
 .cid-rtN28F93nE {
-  padding-top: 45px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rtN28F93nE .mbr-section-subtitle {
@@ -1474,7 +1474,7 @@ body {
   color: #ffffff;
 }
 .cid-rtN28F93nE .countdown-cont {
-  background: linear-gradient(45deg, #cc2952, #e4d295);
+  background: linear-gradient(45deg, #149dcc, #00454b);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -1763,49 +1763,44 @@ body {
 }
 .cid-rtN4j3sZp2 P {
   text-align: center;
-  color: #4f4943;
+  color: #232323;
 }
 .cid-rtN4j3sZp2 H2 {
   text-align: center;
-  color: #4f4943;
+  color: #232323;
 }
-.cid-rtZpWqco87 {
-  padding-top: 90px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rtZpWqco87 P {
-  color: #767676;
-}
-.cid-rtZlQGZWQr {
-  padding-top: 120px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rtZlQGZWQr .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rtZldARjHX {
+.cid-runWVSzDDn {
   padding-top: 60px;
-  padding-bottom: 75px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-runWVSzDDn P {
+  color: #767676;
+}
+.cid-ruAXA2p13p {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rtZsidSDjD {
+.cid-ruAXA2p13p P {
+  color: #767676;
+}
+.cid-runYu3JFP4 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rtZsidSDjD .row-links {
+.cid-runYu3JFP4 .row-links {
   width: 100%;
   -webkit-justify-content: center;
   justify-content: center;
 }
-.cid-rtZsidSDjD .social-row {
+.cid-runYu3JFP4 .social-row {
   width: 100%;
   -webkit-justify-content: center;
   justify-content: center;
 }
-.cid-rtZsidSDjD .media-container-row {
+.cid-runYu3JFP4 .media-container-row {
   -webkit-flex-direction: column;
   flex-direction: column;
   -webkit-justify-content: center;
@@ -1813,7 +1808,7 @@ body {
   -webkit-align-items: center;
   align-items: center;
 }
-.cid-rtZsidSDjD .media-container-row .foot-menu {
+.cid-runYu3JFP4 .media-container-row .foot-menu {
   list-style: none;
   display: flex;
   -webkit-justify-content: center;
@@ -1823,13 +1818,13 @@ body {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-rtZsidSDjD .media-container-row .foot-menu li {
+.cid-runYu3JFP4 .media-container-row .foot-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-rtZsidSDjD .media-container-row .foot-menu li p {
+.cid-runYu3JFP4 .media-container-row .foot-menu li p {
   margin: 0;
 }
-.cid-rtZsidSDjD .media-container-row .social-list {
+.cid-runYu3JFP4 .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1839,32 +1834,32 @@ body {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rtZsidSDjD .media-container-row .social-list .mbr-iconfont-social {
+.cid-runYu3JFP4 .media-container-row .social-list .mbr-iconfont-social {
   font-size: 1.5rem;
   color: #ffffff;
 }
-.cid-rtZsidSDjD .media-container-row .social-list .soc-item {
+.cid-runYu3JFP4 .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rtZsidSDjD .media-container-row .social-list a {
+.cid-runYu3JFP4 .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rtZsidSDjD .media-container-row .social-list a:hover {
+.cid-runYu3JFP4 .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rtZsidSDjD .media-container-row .social-list {
+  .cid-runYu3JFP4 .media-container-row .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rtZsidSDjD .media-container-row .row-copirayt {
+.cid-runYu3JFP4 .media-container-row .row-copirayt {
   word-break: break-word;
   width: 100%;
 }
-.cid-rtZsidSDjD .media-container-row .row-copirayt p {
+.cid-runYu3JFP4 .media-container-row .row-copirayt p {
   width: 100%;
 }
